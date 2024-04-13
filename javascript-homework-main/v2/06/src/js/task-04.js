@@ -15,7 +15,6 @@ incrementButton.addEventListener('click', () => {
   updateCounter(); 
 });
 
-
 function updateCounter() {
   valueSpan.textContent = counterValue; 
 }
